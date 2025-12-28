@@ -73,7 +73,7 @@ I am passionate about **quality-driven development**, improving testing processe
 
 ## 📫 Contact Me
 - 📧 Email: **kamrulhasansqa@gmail.com**  
-- 💼 LinkedIn: *(@khasannahid)*  
+- 💼 LinkedIn: *([khasannahid](https://www.linkedin.com/in/khasannahid/))*  
 
 ---
 
